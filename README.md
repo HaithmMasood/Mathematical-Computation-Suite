@@ -19,5 +19,5 @@ The Mathematical Computation Suite is a versatile collection of modules designed
 - Use standard C compilation commands for each `.c` file.
 - Include corresponding `.h` files for module integration.
 
-
-
+## Contributing
+This project was developed as part of an academic assignment. While it is not open for contributions, feedback and suggestions are always welcome.
